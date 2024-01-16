@@ -1,0 +1,9 @@
+features-of-java - https://www.javatpoint.com/features-of-java
+
+cpp vs Java - https://www.javatpoint.com/cpp-vs-java
+
+simple-program-of-java - https://www.javatpoint.com/simple-program-of-java
+
+internal-details-of-hello-java-program - https://www.javatpoint.com/internal-details-of-hello-java-program
+
+data types - https://www.javatpoint.com/java-data-types
